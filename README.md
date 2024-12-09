@@ -1,4 +1,4 @@
-# Y-Combinator-application-and-interviews-guide（Y Combinator 申请和面试指南）
+# Y-Combinator-application-and-interviews-guide
 
 一个关于 Y Combinator 申请和面试的资源汇总文档
 
@@ -97,3 +97,12 @@
 我们希望这份指南能够为每一位正在申请 Y Combinator 的创业者提供帮助，节省时间和精力。
 
 如果有任何疑问或建议，欢迎联系我们！🎉
+
+---
+
+## 6. 成功收录列表
+
+- [待获取] https://www.ycombinator.com/companies/industry/open-source
+- https://news.ycombinator.com/
+
+
